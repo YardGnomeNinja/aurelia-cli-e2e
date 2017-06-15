@@ -19,4 +19,4 @@ Based on: https://gist.github.com/RossJHagan/707516e503db220ac8d2a61b40344117
 },
 ```
 
-1. `au e2e`
+4. `au e2e`
