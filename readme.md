@@ -1,10 +1,10 @@
 Based on: https://gist.github.com/RossJHagan/707516e503db220ac8d2a61b40344117
 
-1. `npm i -D del gulp-protractor`
+1. Execute `npm i -D del gulp-protractor`
 
-1. Add these files to your project.
+1. Add these files to the root of your project
 
-1. Add the following to /aurelia_project/aurelia.json
+1. Add the following to `./aurelia_project/aurelia.json`
 
 ```json
 "e2eTestRunner": {
@@ -19,4 +19,4 @@ Based on: https://gist.github.com/RossJHagan/707516e503db220ac8d2a61b40344117
 },
 ```
 
-4. `au e2e`
+4. Execute `au e2e` to run tests in `./test/e2e/src/`
